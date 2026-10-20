@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wrdo": {
+      "type": "http",
+      "url": "https://api.wrdo.co.za/mcp"
+    }
+  }
+}
