@@ -26,7 +26,7 @@ https://api.wrdo.co.za/mcp
 
 - **Transport:** Streamable HTTP
 - **Sign-in:** none. Every tool is read-only and anonymous.
-- **Coverage:** the Western Cape, starting with Paarl and the Cape Winelands.
+- **Coverage:** the Western Cape, including Cape Town, Paarl and the Cape Winelands.
 - **Rate limit:** 30 requests per minute per caller.
 
 This repository holds no server code. It holds the small config files that let Claude Code, Cursor, Gemini CLI and other tools add WRDO in one step.
@@ -34,6 +34,8 @@ This repository holds no server code. It holds the small config files that let C
 ## What you can ask
 
 > Find an electrician in Paarl.
+>
+> Which restaurants in Paarl have a menu with something under R100?
 >
 > What's on the menu at Breezy's, and how much is the garlic and cheese pita?
 >
@@ -43,8 +45,9 @@ This repository holds no server code. It holds the small config files that let C
 
 | Tool | What it does |
 |---|---|
-| `search_local_businesses` | Find businesses by what they do or their name, optionally in a town or suburb. |
-| `get_business` | One business's public WRDO page: category, area, whether it is verified, and more for verified businesses. |
+| `search_local_businesses` | Find businesses by what they do or their name, optionally in a town or suburb. Narrow by category, by whether they have a price list, by a maximum price in rand, and by whether they are open now. |
+| `list_categories` | The kinds of business WRDO lists, with how many of each, for a town, a suburb or everywhere. |
+| `get_business` | One business's public WRDO page: category, area and whether it is verified. Verified businesses add their description, address, opening hours, website and menu link. Shows WRDO's own reviews only, never reviews copied from other sites. |
 | `get_price_list` | A business's menu or price list: items with prices in rand. Prices taken from the business's own website are marked as not yet confirmed. |
 | `start_request` | A link the person opens to ask WRDO for a quote, booking or order. Nothing is booked or paid inside the assistant: the person finishes in WRDO, and prices are only confirmed when the business confirms them. |
 
