@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "za.co.wrdo/wrdo",
   "title": "WRDO",
-  "description": "Local businesses, menus and price lists in the Western Cape, South Africa; start a request in WRDO.",
+  "description": "Local businesses, menus and price lists in Cape Town and the Western Cape; start a request in WRDO.",
   "websiteUrl": "https://wrdo.co.za/support/mcp",
   "repository": {
     "url": "https://github.com/wrdo-development/wrdo-mcp-connector",
@@ -15,7 +15,7 @@
       "sizes": ["1024x1024"]
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "remotes": [
     {
       "type": "streamable-http",
