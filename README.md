@@ -33,7 +33,7 @@ This repository holds no server code. It holds the small config files that let C
 
 ## What you can ask
 
-> Find a plumber in Paarl.
+> Find an electrician in Paarl.
 >
 > What's on the menu at Breezy's, and how much is the garlic and cheese pita?
 >
