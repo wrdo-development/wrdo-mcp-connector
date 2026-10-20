@@ -1,0 +1,20 @@
+{
+  "name": "wrdo",
+  "displayName": "WRDO",
+  "version": "1.0.0",
+  "description": "Find local businesses, menus and price lists in the Western Cape, South Africa, and start a request in WRDO. Read-only, no sign-in.",
+  "author": {
+    "name": "WRDO",
+    "email": "hello@wrdo.co.za",
+    "url": "https://wrdo.co.za"
+  },
+  "homepage": "https://wrdo.co.za/support/mcp",
+  "repository": "https://github.com/wrdo-development/wrdo-mcp-connector",
+  "license": "MIT",
+  "keywords": ["local-business", "restaurants", "menus", "price-lists", "south-africa", "western-cape"],
+  "icon": "./assets/wrdo-icon.png",
+  "documentationUrl": "https://wrdo.co.za/support/mcp",
+  "supportUrl": "https://wrdo.co.za/support/mcp",
+  "privacyPolicyUrl": "https://wrdo.co.za/privacy",
+  "termsOfServiceUrl": "https://wrdo.co.za/terms"
+}
