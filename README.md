@@ -5,7 +5,7 @@
 <h1 align="center">WRDO for AI assistants</h1>
 
 <p align="center">
-  Find local businesses, menus and price lists in the Western Cape, South Africa,<br>
+  Find local businesses, menus and price lists in Cape Town and the Western Cape, South Africa,<br>
   and start a request with them in WRDO, from any AI assistant that speaks MCP.
 </p>
 
