@@ -31,7 +31,11 @@ https://api.wrdo.co.za/mcp
 
 This repository holds no server code. It holds the small config files that let Claude Code, Cursor, Gemini CLI and other tools add WRDO in one step.
 
-## What you can ask
+## Usage
+
+Once WRDO is added (see [Installation](#installation)), just ask your assistant in plain words. It picks the right WRDO tool by itself.
+
+### What you can ask
 
 > Find a hairdresser in Cape Town.
 >
@@ -53,7 +57,9 @@ This repository holds no server code. It holds the small config files that let C
 
 Results only ever carry public business information. No phone numbers, email addresses or personal data are returned.
 
-## Add WRDO to your assistant
+## Installation
+
+Add WRDO to your assistant. Pick your client below.
 
 ### Claude (claude.ai and Claude Desktop)
 
@@ -124,6 +130,8 @@ https://api.wrdo.co.za/.well-known/agent-card.json
 
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) as `za.co.wrdo/wrdo`
 - [Glama](https://glama.ai/mcp/connectors/za.co.wrdo/wrdo)
+- [mcpservers.org](https://mcpservers.org)
+- [ClaudePluginHub](https://claudepluginhub.com/plugins/wrdo-development-wrdo)
 
 ## Support
 
