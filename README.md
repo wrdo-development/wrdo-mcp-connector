@@ -16,6 +16,11 @@
   <a href="mailto:hello@wrdo.co.za">Support</a>
 </p>
 
+<p align="center">
+  <a href="https://cursor.com/install-mcp?name=wrdo&config=eyJ1cmwiOiJodHRwczovL2FwaS53cmRvLmNvLnphL21jcCJ9"><img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Add to Cursor" height="32"></a>
+  <a href="https://insiders.vscode.dev/redirect/mcp/install?name=wrdo&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A//api.wrdo.co.za/mcp%22%7D"><img src="https://img.shields.io/badge/Add%20to%20VS%20Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Add to VS Code" height="32"></a>
+</p>
+
 ---
 
 WRDO is a hosted [Model Context Protocol](https://modelcontextprotocol.io) server. There is nothing to install or run: point your assistant at the URL below.
@@ -131,6 +136,7 @@ https://api.wrdo.co.za/.well-known/agent-card.json
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) as `za.co.wrdo/wrdo`
 - [Glama](https://glama.ai/mcp/connectors/za.co.wrdo/wrdo)
 - [mcpservers.org](https://mcpservers.org)
+- [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
 - [ClaudePluginHub](https://claudepluginhub.com/plugins/wrdo-development-wrdo)
 
 ## Support
