@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="assets/wrdo-icon.png" alt="WRDO logo" width="96" height="96">
 </p>
 
@@ -7,7 +7,7 @@
 <p align="center">
   Discover local businesses, menus and price lists across the Western Cape, South Africa.<br>
   Find businesses and start quote, booking or order requests through WRDO, using compatible AI assistants.<br>
-  <strong><a href="https://wrdo.co.za">WRDO — World Ready Digital Operator</a></strong>
+  <strong><a href="https://wrdo.co.za">wrdo.co.za</a></strong>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## What is WRDO?
 
-WRDO stands for **World Ready Digital Operator**. It connects AI assistants to local business information in the Western Cape, South Africa, through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
+WRDO connects AI assistants to local business information in the Western Cape, South Africa, through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
 
 With WRDO, compatible AI assistants can discover local businesses, browse public business profiles, retrieve menus and price lists, and generate links that let people start quote, booking or order requests through WRDO.
 
@@ -96,7 +96,6 @@ WRDO exposes five MCP tools.
 - Website-sourced prices may not have been confirmed by the business.
 - A request link is not a confirmed booking, order or quote.
 - The MCP server does not itself complete bookings or process payments.
-- The connector returns public business information made available through WRDO. Its tools do not return business phone numbers, email addresses or personal data.
 
 ## Installation
 
@@ -207,13 +206,6 @@ Find WRDO in the following MCP registries and community directories:
 - [ClaudePluginHub](https://www.claudepluginhub.com/plugins/wrdo-development-wrdo)
 - [Feryn.ee](https://feryn.ee/en/showcase/mcp-za-co-wrdo-wrdo)
 - [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
-
-### Listing badges
-
-The badges above link to WRDO's ProtocolProbe record and AI Agents Listing profile.
-
-- **ProtocolProbe:** Its badge displays a public-record check count. “5 of 5 record checks met” is not a security rating, security certification or guarantee of safety.
-- **AI Agents Listing:** The badge URL includes the claim token supplied for WRDO's listing. Keep that URL intact if you use it to verify or claim the listing.
 
 Directory listings and their status may change independently of this repository.
 
