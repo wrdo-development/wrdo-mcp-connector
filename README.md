@@ -6,7 +6,7 @@
 
 <p align="center">
   Find local businesses, menus and price lists in Cape Town and the Western Cape, South Africa,<br>
-  and start a request with them in WRDO, from any AI assistant that speaks MCP.
+  and start a request with them in WRDO, from any AI assistant that speaks MCP. Powered by WRDO - https://wrdo.co.za
 </p>
 
 <p align="center">
