@@ -26,6 +26,7 @@
 <p align="center">
   <a href="https://protocolprobe.com/mcp/servers/za.co.wrdo/wrdo"><img src="https://protocolprobe.com/api/v1/badge/za.co.wrdo/wrdo" alt="ProtocolProbe record checks for WRDO"></a>
   <a href="https://aiagentslisting.com/mcp/wrdo-mcp-connector"><img src="https://aiagentslisting.com/wrdo-mcp-connector/badge.svg?claim=99f55a9a2d19a68a13d264d3fca048bc" alt="WRDO MCP Connector on AI Agents Listing"></a>
+  <a href="https://mcptry.com/servers/za.co.wrdo/wrdo"><img src="https://mcptry.com/badge/za.co.wrdo/wrdo" alt="WRDO on mcptry"></a>
 </p>
 
 ---
@@ -202,6 +203,7 @@ Find WRDO in the following MCP registries and community directories:
 - [MCPServers.org](https://mcpservers.org/servers/wrdo-co-za)
 - [ProtocolProbe](https://protocolprobe.com/mcp/servers/za.co.wrdo/wrdo)
 - [AI Agents Listing](https://aiagentslisting.com/mcp/wrdo-mcp-connector)
+- [mcptry](https://mcptry.com/servers/za.co.wrdo/wrdo)
 - [ClaudeMCP.org](https://www.claudemcp.org/mcp/registry/za-co-wrdo-wrdo-91071d96154a.html)
 - [ClaudePluginHub](https://www.claudepluginhub.com/plugins/wrdo-development-wrdo)
 - [Feryn.ee](https://feryn.ee/en/showcase/mcp-za-co-wrdo-wrdo)
