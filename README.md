@@ -48,10 +48,12 @@ WRDO is a hosted remote MCP server. You do not need to host the server yourself 
 - **Transport:** Streamable HTTP
 - **Endpoint:** `https://api.wrdo.co.za/mcp`
 - **Authentication:** No authentication is currently required to connect.
-- **Coverage:** The Western Cape, South Africa, including Cape Town, Paarl and the Cape Winelands.
+- **Coverage:** the Western Cape, South Africa, including Cape Town and the Winelands
 - **Rate limit:** 30 requests per minute per caller.
 
 This repository contains configuration and integration files, not the hosted server's implementation.
+
+Agents: see [AGENTS.md](AGENTS.md). Developer docs: [wrdo.co.za/developers](https://wrdo.co.za/developers).
 
 ## What can you do with WRDO?
 
@@ -64,7 +66,7 @@ Find a hairdresser in Cape Town.
 
 **Explore restaurants and prices**
 ```text
-Which restaurants in Paarl have a menu item under R100?
+Which restaurants in Stellenbosch have a menu item under R100?
 ```
 
 **Look up a menu item**
@@ -81,7 +83,7 @@ Your assistant can select the appropriate WRDO tool based on your request.
 
 ## Available tools
 
-WRDO exposes five MCP tools.
+WRDO exposes six MCP tools.
 
 | Tool | Description |
 |---|---|
@@ -89,6 +91,7 @@ WRDO exposes five MCP tools.
 | `list_categories` | Browse the types of businesses listed on WRDO, including category counts for a location or the wider directory. |
 | `get_business` | Retrieve a public business profile, including its category, area and verification status. Verified profiles may include a description, address, opening hours, website and menu link. |
 | `get_price_list` | Retrieve a business's menu or price list, including item names, descriptions and prices in South African rand. Website-sourced prices may be unconfirmed. |
+| `list_areas` | List the areas WRDO covers, so a town or suburb name can be checked before searching. |
 | `start_request` | Generate a link for a person to start a quote, booking or order request through WRDO. The person continues the process in WRDO. |
 
 ### Important limitations
