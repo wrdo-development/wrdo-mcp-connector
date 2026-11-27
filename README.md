@@ -27,6 +27,7 @@
   <a href="https://protocolprobe.com/mcp/servers/za.co.wrdo/wrdo"><img src="https://protocolprobe.com/api/v1/badge/za.co.wrdo/wrdo" alt="ProtocolProbe record checks for WRDO"></a>
   <a href="https://aiagentslisting.com/mcp/wrdo-mcp-connector"><img src="https://aiagentslisting.com/wrdo-mcp-connector/badge.svg?claim=99f55a9a2d19a68a13d264d3fca048bc" alt="WRDO MCP Connector on AI Agents Listing"></a>
   <a href="https://mcptry.com/servers/za.co.wrdo/wrdo"><img src="https://mcptry.com/badge/za.co.wrdo/wrdo" alt="WRDO on mcptry"></a>
+  <a href="https://mcprush.com/to/wrdo-mcp?ref=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmcprush.com%2Fbadge%2Fwrdo-mcp%2Fshields.json" alt="WRDO on mcprush"></a>
 </p>
 
 ---
